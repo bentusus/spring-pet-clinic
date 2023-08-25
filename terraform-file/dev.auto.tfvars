@@ -1,4 +1,4 @@
-mykey = "cumhurkey"
+mykey = "Abasam314@55"
 ami = "ami-026b57f3c383c2eec"
 region = "us-east-1"
 instance_type = "t3a.medium"  # in order to run petcilinic microservices app, use t3a.medium otherwise you can use t2.micro
